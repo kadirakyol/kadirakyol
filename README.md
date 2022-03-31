@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kadirakyol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kadirakyol/kadirakyol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @kadirakyol / Kadir Akyol
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Unity / Unreal Engine 5
+- 📫 How to reach me : kadir.akyol.ce@gmail.com
