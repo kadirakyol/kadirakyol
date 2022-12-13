@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @kadirakyol / Kadir Akyol
+- :ballot_box_with_check: I'm interesting in swift programming language
 - 📫 How to reach me : kadir.akyol.ce@gmail.com
